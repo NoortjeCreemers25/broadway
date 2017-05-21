@@ -24,7 +24,7 @@ p {
 }
 
 .header {
-  background-image: url("../../Resources/Images/the-flatiron-building.png");
+  background-image: url("../Images/the-flatiron-building.png");
   color: white;
   background-repeat: no-repeat;
   background-size: cover;
@@ -39,6 +39,10 @@ ul {
 li {
     list-style-type: none;
     display: grid;
+}
+
+a:link{
+  color: white;
 }
 
 a:visited{
