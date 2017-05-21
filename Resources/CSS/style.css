@@ -24,7 +24,7 @@ p {
 }
 
 .header {
-  background-image: url("./Broadway/Resources/Images/the-flatiron-building.png");
+  background-image: url("../../Resources/Images/the-flatiron-building.png");
   color: white;
   background-repeat: no-repeat;
   background-size: cover;
